@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * EasyUI for jQuery 1.5.4.2
  * 
@@ -7,6 +8,17 @@
  * To use it on other terms please contact us: info@jeasyui.com
  *
  */
+=======
+/**
+ * EasyUI for jQuery 1.5.4.2
+ * 
+ * Copyright (c) 2009-2018 www.jeasyui.com. All rights reserved.
+ *
+ * Licensed under the freeware license: http://www.jeasyui.com/license_freeware.php
+ * To use it on other terms please contact us: info@jeasyui.com
+ *
+ */
+>>>>>>> 33c729bb5f4b2dc9ec13e9cd872e1a27658dca8a
 (function($){
 function _1(c){
 var w=0;
